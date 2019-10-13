@@ -1,4 +1,10 @@
 h1 {
   background-color: gray;
   color: #1d3557;
+  font-family: 'Turret Road', cursive;
+}
+
+h2 {
+  background-color: gray;
+  color: #e63946;
 }
