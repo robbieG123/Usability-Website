@@ -1,12 +1,21 @@
+body{
+  
+}
+
+nav {
+
+}
+
 h1 {
   background-color: gray;
   color: #1d3557;
   font-family: 'Libre Baskerville', serif;
+
 }
 
 h2 {
   background-color: gray;
-  color: #e63946;
+  color: white;
   font-family: 'Noto Sans', sans-serif;
 }
 
