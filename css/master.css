@@ -1,15 +1,22 @@
 h1 {
-  background-color: gray;
+  background-color: #f1faee;
   color: #1d3557;
   font-family: 'Libre Baskerville', serif;
+  font-size:75px;
 }
 
 h2 {
-  background-color: gray;
   color: #e63946;
   font-family: 'Noto Sans', sans-serif;
+  font-size: 45px;
 }
 
 p {
   font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+
+ul {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px
 }
