@@ -1,15 +1,12 @@
 *{
   background-color: #BDBDBD;
-
 }
-
-
-
 
 .btn{
   background-color: #1d3557;
   margin-bottom: 15px;
 }
+
 h1 {
   padding: 10px;
   padding-left: 15px;
@@ -17,13 +14,12 @@ h1 {
   color: #1d3557;
   font-family: 'Libre Baskerville', serif;
   margin: 0;
+  font-size: 75px;
 }
 
 h2 {
   padding: 10px;
   padding-left: 15px;
-  background-color: gray;
-  color: white;
   background-color: #f1faee;
   color: #1d3557;
   font-family: 'Libre Baskerville', serif;
@@ -38,6 +34,8 @@ h2 {
 
 h3{
   padding-left: 15px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 p {
@@ -53,5 +51,5 @@ ul {
 }
 
 nav ul{
-  font-size: 15px;
+  font-size: 20px;
 }
