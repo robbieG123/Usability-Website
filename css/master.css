@@ -21,21 +21,16 @@ h2 {
   padding: 10px;
   padding-left: 15px;
   background-color: #f1faee;
-  color: #1d3557;
-  font-family: 'Libre Baskerville', serif;
-  font-size:75px;
-}
-
-h2 {
   color: #e63946;
   font-family: 'Noto Sans', sans-serif;
-  font-size: 45px;
+  font-size:45px;
 }
 
 h3{
   padding-left: 15px;
   font-weight: bold;
   font-size: 30px;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 p {
