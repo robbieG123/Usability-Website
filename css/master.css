@@ -1,0 +1,51 @@
+*{
+  background-color: #BDBDBD;
+
+}
+
+nav {
+
+}
+
+
+.btn{
+  background-color: #1d3557;
+  margin-bottom: 15px;
+}
+h1 {
+  padding: 10px;
+  padding-left: 15px;
+  background-color: gray;
+  color: #1d3557;
+  font-family: 'Libre Baskerville', serif;
+  margin: 0;
+}
+
+h2 {
+  padding: 10px;
+  padding-left: 15px;
+  background-color: gray;
+  color: white;
+  background-color: #f1faee;
+  color: #1d3557;
+  font-family: 'Libre Baskerville', serif;
+  font-size:75px;
+}
+
+h2 {
+  color: #e63946;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 45px;
+}
+
+p {
+  font-family: 'Noto Sans', sans-serif;
+  padding: 10px;
+  padding-left: 15px;
+  font-size: 20px;
+}
+
+ul {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px
+}
