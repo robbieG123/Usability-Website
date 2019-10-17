@@ -3,9 +3,7 @@
 
 }
 
-nav {
 
-}
 
 
 .btn{
@@ -48,4 +46,8 @@ p {
 ul {
   font-family: 'Noto Sans', sans-serif;
   font-size: 20px
+}
+
+nav ul{
+  font-size: 15px;
 }
